@@ -36,13 +36,13 @@ On the main division the page shows clickable buttons to the following disabilit
 All of the options take to the corresponding webpage mentioning information on the schemes linked to the disability.
 <hr>
 
-On the division mentioning _Natioanl Trusts and other schemes offered by the Government of India_ the following options are mentioned: -
+On the division mentioning _National Trusts and other schemes offered by the Government of India_ the following options are mentioned: -
 <ul>
-<li>Natioanl Trusts</li>
+<li>National Trusts</li>
 <li>Extra Schemes offered</li>
 <li>Additional Information</li>
 </ul>
-The natioanl trusts page displays information about national trusts offering schmes for the disabled.<br>
-Extra Schmes offered takes the user to the governmetn website offering more information about the schemes.<br>
-Additional Information provides a list of links which offers more information regarding schmes like the ADIP Scheme, accessible elections, etc.
+The national trusts page displays information about national trusts offering schemes for the disabled.<br>
+Extra Schemes offered takes the user to the government website offering more information about the schemes.<br>
+Additional Information provides a list of links which offers more information regarding schemes like the ADIP Scheme, accessible elections, etc.
 <hr>
