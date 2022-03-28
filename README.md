@@ -1,5 +1,5 @@
-# Software for faciltation of various Govt. schemes for persons with disabilities
-## PS Number: RK773
+# Software for facilitation of various Govt. schemes for persons with disabilities
+## PS Number: RK775
 ## Theme: MedTech/ BioTech/ HealthTech
 ## Domain Bucket: MedTech/ BioTech/ HealthTech
 ## Category: Software
@@ -18,11 +18,11 @@ Tanish Sachdeva (IIB2021008)<br>
 <hr>
 
 This project mentions information about different kinds of schemes offered by the government based on disabilities.<br>
-It also mentions national trusts and other schemes offered by the government.<br>
+It also mentions information about national trusts and other schemes offered by the government.<br>
 
 On the home page the user is shown simple options which mention what information about which disability clicking on the button will show.
 
-On the main division the page shows clickable buttons to the following disabilities: -
+The main division shows the following options: -
 <ul>
 <li>Autism Spectrum Disorder</li>
 <li>Blindness</li>
